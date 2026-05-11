@@ -3,7 +3,6 @@
 <img src="hero.gif" width="100%" alt="Guido Nicolás Quadrini - Technology Leadership, Architecture, AI and Delivery" />
 
 <br />
-<br />
 
 # 👋 Hi, I'm Guido Nicolás Quadrini
 
