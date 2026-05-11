@@ -112,11 +112,9 @@ working_style:
 
 | Capability | What it means in practice |
 |---|---|
-| 🏗️ **Architecture clarity** | I help organizations define target states, roadmaps, standards, NFRs, ADRs and governance models that teams can actually use. |
-| 🚀 **Delivery discipline** | I lead programs and projects with structure, risk control, stakeholder alignment and measurable outcomes. |
-| 🤖 **AI & automation pragmatism** | I use AI agents and automation to reduce friction, improve decisions and support delivery without losing accountability. |
-| 🔐 **Trust by design** | I embed privacy, security, accessibility, reliability and audit readiness into delivery instead of treating them as late-stage checks. |
-| 🧭 **Technical leadership** | I coach engineers, architects and teams through ambiguity, trade-offs and execution pressure. |
+| 🏗️ **Architecture clarity** | Enterprise, solution and domain architecture for complex systems, platforms and operating models. |
+| 🚀 **Delivery discipline** | Program, project and portfolio leadership with governance, risk control and measurable outcomes. |
+| 🤖 **AI & automation pragmatism** | AI agents, workflow automation and AI-assisted delivery with accountability and control. |
 
 ---
 
