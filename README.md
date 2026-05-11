@@ -9,7 +9,7 @@
 
 ### Technology Leader · Enterprise Architect · AI & Platform Builder
 
-I help teams make sense of complex technology, architecture and delivery.
+I help teams turn complex technology, architecture and delivery challenges into systems that work in the real world.
 
 📍 Oslo, Norway · 🌍 EU Citizen  
 🏗️ Enterprise Architecture · Digital Transformation · Program Leadership · Cloud · DevOps · AI Agents
@@ -23,7 +23,7 @@ I help teams make sense of complex technology, architecture and delivery.
 <br />
 
 <a href="https://www.buymeacoffee.com/matekraft">
-  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a ☕&emoji=😎&slug=matekraft&button_colour=13890b&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" />
+  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a ☕&emoji=😎&slug=matekraft&button_colour=13890b&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" alt="Buy me a coffee" />
 </a>
 
 </div>
@@ -32,18 +32,17 @@ I help teams make sense of complex technology, architecture and delivery.
 
 ## About me
 
-I'm a senior technology and digital transformation leader with **16+ years of experience** across telecom, pharma, public sector, healthcare, education, and consulting.
+I'm a senior technology and digital transformation leader with **16+ years of experience** across telecom, pharma, public sector, healthcare, education and consulting.
 
-I started close to the code as a full-stack developer and evolved into architecture, platform leadership, governance, transformation, and delivery leadership roles.
+I started close to the code as a full-stack developer and evolved into architecture, platform leadership, governance, transformation and delivery leadership roles.
 
-That path shaped how I work today: strategic enough to align roadmaps and operating models, technical enough to understand the systems, and practical enough to help teams deliver.
+That path shaped how I work today:
 
-I care about building technology that is:
+- strategic enough to align roadmaps, operating models and priorities;
+- technical enough to understand systems, trade-offs and engineering reality;
+- practical enough to help teams deliver under real constraints.
 
-- reliable enough to trust,
-- simple enough to operate,
-- clear enough to evolve,
-- and useful enough to matter.
+I care about building technology that is **reliable enough to trust, simple enough to operate, clear enough to evolve and useful enough to matter**.
 
 ---
 
@@ -61,7 +60,7 @@ I work at the intersection of:
 - Platform engineering and developer experience
 - Cloud and infrastructure modernization
 - DevOps, DevSecOps and SRE practices
-- AI agents, automation and AI-assisted delivery
+- AI agents, workflow automation and AI-assisted delivery
 - Technical coaching and team enablement
 
 My sweet spot is helping organizations move from complexity, fragmentation and uncertainty into clearer systems, better decisions and measurable outcomes.
@@ -70,22 +69,9 @@ My sweet spot is helping organizations move from complexity, fragmentation and u
 
 ## What I bring
 
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <h3>🏗️ Architecture</h3>
-      <p>Enterprise, solution and domain architecture for complex systems, platforms and operating models.</p>
-    </td>
-    <td width="33%" align="center">
-      <h3>🚀 Delivery</h3>
-      <p>Program, project and portfolio leadership with governance, risk control and measurable outcomes.</p>
-    </td>
-    <td width="33%" align="center">
-      <h3>🤖 AI & Automation</h3>
-      <p>Pragmatic AI agents, workflow automation and AI-assisted delivery with accountability and control.</p>
-    </td>
-  </tr>
-</table>
+| 🏗️ Architecture | 🚀 Delivery | 🤖 AI & Automation |
+|---|---|---|
+| Enterprise, solution and domain architecture for complex systems, platforms and operating models. | Program, project and portfolio leadership with governance, risk control and measurable outcomes. | Pragmatic AI agents, workflow automation and AI-assisted delivery with accountability and control. |
 
 ---
 
@@ -108,7 +94,7 @@ currently_building_and_exploring:
 
 ## AI, Agents & Automation
 
-I'm interested in how AI agents and automation can improve real delivery work, not just demos.
+I'm interested in how AI agents and automation can improve real delivery work — not just demos.
 
 Areas I care about:
 
@@ -226,7 +212,7 @@ I like AI when it helps people make better decisions, reduce friction and move f
 
 **Digital Channels · Architecture · Platform Governance · AI in SDLC**
 
-Led architecture alignment and transformation initiatives across digital channels and internal platforms. Focus areas included roadmaps, standards, NFRs, ADRs, cloud optimization, observability, privacy and accessibility by design, and pragmatic AI adoption in delivery workflows.
+Led architecture alignment and transformation initiatives across digital channels and internal platforms, with focus on roadmaps, standards, NFRs, ADRs, cloud optimization, observability, privacy and accessibility by design, and pragmatic AI adoption in delivery workflows.
 
 ### Cognizant
 
@@ -252,9 +238,9 @@ Designed and delivered public health systems supporting clinical workflows, bloo
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=akasha-code&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=tokyonight" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akasha-code&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
 
 </div>
 
@@ -315,12 +301,17 @@ A short note is enough. I'll take it from there.
 <br />
 
 <a href="https://www.buymeacoffee.com/matekraft">
-  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a ☕&emoji=😎&slug=matekraft&button_colour=13890b&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" />
+  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a ☕&emoji=😎&slug=matekraft&button_colour=13890b&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" alt="Buy me a coffee" />
 </a>
 
 <br />
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blueviolet" />
+<img src="qr-code.png" width="150" alt="Buy me a coffee QR code" />
+
+<br />
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=akasha-code&style=for-the-badge&color=blueviolet" alt="Profile views" />
 
 </div>
