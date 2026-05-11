@@ -9,6 +9,8 @@
 
 ### Technology Leader · Enterprise Architect · AI & Platform Builder
 
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=13890B&center=true&vCenter=true&width=900&lines=I+turn+complexity+into+clarity.;I+build+systems+that+teams+can+trust.;I+connect+architecture%2C+delivery+and+AI.;I+help+technology+work+in+the+real+world." alt="Typing SVG" />
+
 I help teams turn complex technology, architecture and delivery challenges into systems that work in the real world.
 
 📍 Oslo, Norway · 🌍 EU Citizen  
@@ -23,7 +25,7 @@ I help teams turn complex technology, architecture and delivery challenges into 
 <br />
 
 <a href="https://www.buymeacoffee.com/matekraft">
-  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a ☕&emoji=😎&slug=matekraft&button_colour=13890b&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" alt="Buy me a coffee" />
+  <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-matekraft-13890b?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy me a coffee" />
 </a>
 
 </div>
@@ -43,6 +45,18 @@ That path shaped how I work today:
 - practical enough to help teams deliver under real constraints.
 
 I care about building technology that is **reliable enough to trust, simple enough to operate, clear enough to evolve and useful enough to matter**.
+
+---
+
+## Executive snapshot
+
+| Signal | Evidence |
+|---|---|
+| **16+ years** | Technology, architecture, delivery and transformation across telecom, pharma, public sector and healthcare. |
+| **Architecture at scale** | Digital channels, platform governance, NFRs, ADRs, integration patterns and architecture roadmaps. |
+| **Measurable outcomes** | ~40% IT cost reduction, ~20% lower cloud/CO₂ footprint and ~60% faster onboarding through harmonization and standardization. |
+| **Regulated delivery** | GxP systems, validation, traceability, audit-ready documentation and risk-based delivery. |
+| **Hands-on roots** | Full-stack development, systems engineering, cloud, infrastructure, DevOps and operational reliability. |
 
 ---
 
@@ -67,11 +81,42 @@ My sweet spot is helping organizations move from complexity, fragmentation and u
 
 ---
 
+## `whoami`
+
+```yaml
+name: Guido Nicolás Quadrini
+location: Oslo, Norway
+role:
+  - Technology Leader
+  - Enterprise & Solution Architect
+  - Program / Project Leader
+  - AI & Platform Builder
+
+current_focus:
+  - AI agents for real workflows
+  - architecture governance that enables delivery
+  - platform thinking and developer experience
+  - cloud-native reliability
+  - responsible automation
+
+working_style:
+  - strategic but practical
+  - technical but human-centered
+  - structured but not bureaucratic
+  - delivery-focused without ignoring risk
+```
+
+---
+
 ## What I bring
 
-| 🏗️ Architecture | 🚀 Delivery | 🤖 AI & Automation |
-|---|---|---|
-| Enterprise, solution and domain architecture for complex systems, platforms and operating models. | Program, project and portfolio leadership with governance, risk control and measurable outcomes. | Pragmatic AI agents, workflow automation and AI-assisted delivery with accountability and control. |
+| Capability | What it means in practice |
+|---|---|
+| 🏗️ **Architecture clarity** | I help organizations define target states, roadmaps, standards, NFRs, ADRs and governance models that teams can actually use. |
+| 🚀 **Delivery discipline** | I lead programs and projects with structure, risk control, stakeholder alignment and measurable outcomes. |
+| 🤖 **AI & automation pragmatism** | I use AI agents and automation to reduce friction, improve decisions and support delivery without losing accountability. |
+| 🔐 **Trust by design** | I embed privacy, security, accessibility, reliability and audit readiness into delivery instead of treating them as late-stage checks. |
+| 🧭 **Technical leadership** | I coach engineers, architects and teams through ambiguity, trade-offs and execution pressure. |
 
 ---
 
@@ -206,6 +251,18 @@ I like AI when it helps people make better decisions, reduce friction and move f
 
 ---
 
+## Selected builds & themes
+
+| Area | What I'm building / exploring |
+|---|---|
+| **AI Agents** | Workflow automation, delivery copilots, document intelligence, operational assistants and decision-support tools. |
+| **Architecture Toolkit** | Practical patterns for ADRs, NFRs, capability mapping, architecture governance and platform modernization. |
+| **Homelab & Automation** | Linux-based infrastructure, local services, observability, networking, self-hosting and home automation. |
+| **Developer Experience** | Better documentation, reusable templates, CI/CD practices and systems that reduce team friction. |
+| **Digital Transformation** | Operating models, delivery recovery, governance structures and business/technology alignment. |
+
+---
+
 ## Selected experience
 
 ### Telia Norge
@@ -238,9 +295,13 @@ Designed and delivered public health systems supporting clinical workflows, bloo
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=akasha-code&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
+<a href="https://github.com/akasha-code">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=akasha-code&amp;show_icons=true&amp;hide_border=true&amp;theme=tokyonight" alt="GitHub stats" />
+</a>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akasha-code&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+<a href="https://github.com/akasha-code">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akasha-code&amp;layout=compact&amp;hide_border=true&amp;theme=tokyonight" alt="Top languages" />
+</a>
 
 </div>
 
@@ -300,14 +361,19 @@ A short note is enough. I'll take it from there.
 <br />
 <br />
 
-<a href="https://www.buymeacoffee.com/matekraft">
-  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a ☕&emoji=😎&slug=matekraft&button_colour=13890b&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" alt="Buy me a coffee" />
-</a>
-
-<br />
-<br />
-
-<img src="qr-code.png" width="150" alt="Buy me a coffee QR code" />
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.buymeacoffee.com/matekraft">
+        <img src="qr-code.png" width="150" alt="Buy me a coffee QR code" />
+      </a>
+      <br />
+      <strong>Support MateKraft</strong>
+      <br />
+      <sub>Buy me a coffee if my work helped you.</sub>
+    </td>
+  </tr>
+</table>
 
 <br />
 <br />
