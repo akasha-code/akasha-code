@@ -59,23 +59,44 @@ I care about building technology that is **reliable enough to trust, simple enou
 
 ---
 
-## What I do
+## Where I work
 
-```txt
-Strategy → Architecture → Delivery → Reliability → Automation → Learning
+I work at the intersection of technology, delivery, governance and real-world execution.
+
+```mermaid
+mindmap
+  root((My sweet spot))
+    Architecture
+      Enterprise
+      Solution
+      Domain
+      Governance
+    Delivery
+      Projects
+      Programs
+      Portfolios
+      Execution discipline
+    Platforms
+      Cloud
+      Platform engineering
+      Developer experience
+      Modernization
+    Reliability
+      DevOps
+      DevSecOps
+      SRE
+      Observability
+    AI
+      AI agents
+      Automation
+      AI-assisted delivery
+      Decision support
+    People
+      Coaching
+      Alignment
+      Communication
+      Enablement
 ```
-
-I work at the intersection of:
-
-- Enterprise, solution and domain architecture
-- Digital transformation and operating models
-- Project, program and portfolio leadership
-- Platform engineering and developer experience
-- Cloud and infrastructure modernization
-- DevOps, DevSecOps and SRE practices
-- AI agents, workflow automation and AI-assisted delivery
-- Technical coaching and team enablement
-
 My sweet spot is helping organizations move from complexity, fragmentation and uncertainty into clearer systems, better decisions and measurable outcomes.
 
 ---
@@ -156,13 +177,13 @@ I like AI when it helps people make better decisions, reduce friction and move f
 
 ### Currently using / actively working with
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,python,nodejs,js,linux,bash,docker,kubernetes,aws,azure,gcp,terraform,ansible,git,github,postgres,mongodb" alt="Current tech stack" />
+</p>
 
-### Architecture, Strategy & Governance
+<details>
+<summary><b>Architecture, Strategy & Governance</b></summary>
+<br />
 
 ![Enterprise Architecture](https://img.shields.io/badge/Enterprise%20Architecture-111827?style=for-the-badge)
 ![Solution Architecture](https://img.shields.io/badge/Solution%20Architecture-1F2937?style=for-the-badge)
@@ -178,11 +199,14 @@ I like AI when it helps people make better decisions, reduce friction and move f
 ![Integration Architecture](https://img.shields.io/badge/Integration%20Architecture-0891B2?style=for-the-badge)
 ![API Strategy](https://img.shields.io/badge/API%20Strategy-6B7280?style=for-the-badge)
 ![Event Driven Architecture](https://img.shields.io/badge/Event--Driven%20Architecture-0E7490?style=for-the-badge)
-![Cloud Architecture](https://img.shields.io/badge/Cloud%20Architecture-0369A1?style=for-the-badge)
 ![Security by Design](https://img.shields.io/badge/Security%20by%20Design-B91C1C?style=for-the-badge)
 ![Privacy by Design](https://img.shields.io/badge/Privacy%20by%20Design-047857?style=for-the-badge)
 
-### Project, Program & Delivery Leadership
+</details>
+
+<details>
+<summary><b>Project, Program & Delivery Leadership</b></summary>
+<br />
 
 ![Project Management](https://img.shields.io/badge/Project%20Management-2563EB?style=for-the-badge)
 ![Program Management](https://img.shields.io/badge/Program%20Management-7C3AED?style=for-the-badge)
@@ -204,35 +228,11 @@ I like AI when it helps people make better decisions, reduce friction and move f
 ![GxP Delivery](https://img.shields.io/badge/GxP%20Delivery-9333EA?style=for-the-badge)
 ![Audit Ready Delivery](https://img.shields.io/badge/Audit--Ready%20Delivery-B91C1C?style=for-the-badge)
 
-### Cloud, DevOps & Reliability
+</details>
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![GitOps](https://img.shields.io/badge/GitOps-F05032?style=for-the-badge&logo=git&logoColor=white)
-![DevSecOps](https://img.shields.io/badge/DevSecOps-DC2626?style=for-the-badge)
-![SRE](https://img.shields.io/badge/SRE-0F172A?style=for-the-badge)
-![Observability](https://img.shields.io/badge/Observability-0891B2?style=for-the-badge)
-![SLIs](https://img.shields.io/badge/SLIs-155E75?style=for-the-badge)
-![SLOs](https://img.shields.io/badge/SLOs-164E63?style=for-the-badge)
-
-### Data, Integration & Security
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-4B5563?style=for-the-badge)
-![APIs](https://img.shields.io/badge/APIs-2563EB?style=for-the-badge)
-![Kafka](https://img.shields.io/badge/Kafka-111827?style=for-the-badge&logo=apachekafka&logoColor=white)
-![MQ](https://img.shields.io/badge/MQ-374151?style=for-the-badge)
-![IAM](https://img.shields.io/badge/IAM-7C2D12?style=for-the-badge)
-![OAuth2](https://img.shields.io/badge/OAuth2-111827?style=for-the-badge)
-![OIDC](https://img.shields.io/badge/OIDC-111827?style=for-the-badge)
-![GDPR](https://img.shields.io/badge/GDPR-0F766E?style=for-the-badge)
-![GxP](https://img.shields.io/badge/GxP-9333EA?style=for-the-badge)
-
-### Real-world experience with
+<details>
+<summary><b>Legacy / Real-world programming experience</b></summary>
+<br />
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C Sharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -243,8 +243,9 @@ I like AI when it helps people make better decisions, reduce friction and move f
 ![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
 ![BASIC](https://img.shields.io/badge/BASIC-6B7280?style=for-the-badge)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+
+</details>
+
 
 ---
 
@@ -257,6 +258,42 @@ I like AI when it helps people make better decisions, reduce friction and move f
 | **Homelab & Automation** | Linux-based infrastructure, local services, observability, networking, self-hosting and home automation. |
 | **Developer Experience** | Better documentation, reusable templates, CI/CD practices and systems that reduce team friction. |
 | **Digital Transformation** | Operating models, delivery recovery, governance structures and business/technology alignment. |
+
+---
+
+## Credential arc
+
+```mermaid
+flowchart LR
+    A[Technical Secondary Education<br/>Production of Goods & Services<br/>Technical focus: Electronics] --> B[Analyst Programmer<br/>Instituto Zona Oeste]
+    B --> C[Systems Analyst<br/>Instituto Zona Oeste]
+    C --> D[University Systems Analyst<br/>Universidad Abierta Interamericana]
+    D --> E[Computer Systems Engineer<br/>Universidad Abierta Interamericana]
+    E --> F[Bachelor's Degree<br/>Higher Education<br/>Universidad Abierta Interamericana]
+    F --> G[Double MSc<br/>Project & Program Management<br/>UNEATLANTICO · UNINI]
+
+    A:::technical
+    B:::systems
+    C:::systems
+    D:::university
+    E:::engineering
+    F:::education
+    G:::master
+
+    classDef technical fill:#78350F,stroke:#FBBF24,color:#FFFFFF
+    classDef systems fill:#1E3A8A,stroke:#60A5FA,color:#FFFFFF
+    classDef university fill:#312E81,stroke:#A78BFA,color:#FFFFFF
+    classDef engineering fill:#14532D,stroke:#22C55E,color:#FFFFFF
+    classDef education fill:#7F1D1D,stroke:#F87171,color:#FFFFFF
+    classDef master fill:#052E16,stroke:#84CC16,color:#FFFFFF
+```
+
+**Double MSc:**
+
+- **MSc in Integrated Project Formulation and Management, Project Management** — Universidad Europea del Atlántico.
+- **MSc in Project Design, Management and Leadership, Program and Project Management** — Universidad Internacional Iberoamericana.
+
+> I also completed partial engineering studies at UTN in Information Systems Engineering and Industrial Engineering, which shaped my systems, process and industrial operations mindset.
 
 ---
 
@@ -288,20 +325,26 @@ Designed and delivered public health systems supporting clinical workflows, bloo
 
 ---
 
-## GitHub Stats
+## Operating model
 
-<div align="center">
+```mermaid
+flowchart LR
+    A[Strategy & Outcomes] --> B[Architecture & Governance]
+    B --> C[Platforms & Delivery]
+    C --> D[Reliability & Operations]
+    D --> E[Automation & AI Agents]
+    E --> A
 
-<a href="https://github.com/akasha-code">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=akasha-code&amp;show_icons=true&amp;hide_border=true&amp;theme=tokyonight" alt="GitHub stats" />
-</a>
+    B --> F[Trust by Design]
+    F --> F1[Security]
+    F --> F2[Privacy]
+    F --> F3[Accessibility]
+    F --> F4[Compliance]
 
-<a href="https://github.com/akasha-code">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akasha-code&amp;layout=compact&amp;hide_border=true&amp;theme=tokyonight" alt="Top languages" />
-</a>
-
-</div>
-
+    C --> G[Developer Experience]
+    D --> H[Observability]
+    E --> I[Workflow Automation]
+```
 ---
 
 ## How I think
@@ -358,6 +401,13 @@ A short note is enough. I'll take it from there.
 <br />
 <br />
 
+<a href="https://www.buymeacoffee.com/matekraft">
+  <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-matekraft-13890b?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy me a coffee" />
+</a>
+
+<br />
+<br />
+
 <table>
   <tr>
     <td align="center">
@@ -371,10 +421,5 @@ A short note is enough. I'll take it from there.
     </td>
   </tr>
 </table>
-
-<br />
-<br />
-
-<img src="https://komarev.com/ghpvc/?username=akasha-code&style=for-the-badge&color=blueviolet" alt="Profile views" />
 
 </div>
